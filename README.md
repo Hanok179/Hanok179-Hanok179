@@ -1,4 +1,3 @@
-# Hanok179-Hanok179
 # Hi there, I'm Hanok Babu Muchu 👋
 
 🚀 **Aspiring Cloud & DevOps Engineer** based in Hyderabad, India.  
